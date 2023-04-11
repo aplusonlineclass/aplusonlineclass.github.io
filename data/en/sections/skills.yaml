@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: Available Classes
   id: skills
   enable: true
   weight: 2
@@ -11,39 +11,27 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: A/L Sinhala
+  logo: /images/sections/skills/sinhala.png
+  summary: "Join Anil Udesh Geethadewa's online Sinhala A/L classes and prepare for success. Click on this card to join his Tuesday class from 7:00 PM to 9:00 PM, or Thursday class from 7:00 PM to 9:00 PM where he discusses exam papers."
+  # url: "https://www.google.com/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Chemistry
+  logo: /images/sections/skills/chemestry.png
+  summary: "Join Madushanka Ambagahakumbura's online Chemistry classes and elevate your understanding of the subject. Click on this card to join the class and start your journey towards academic excellence."
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Physics
+  logo: /images/sections/skills/physics.png
+  summary: "Join Achala Prabashana and Akila Kanchana's online Physics classes and unlock your full potential in the subject. Click on this card to join the class and start your journey towards success."
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+- name: O/L Maths
+  logo: /images/sections/skills/maths.jpg
+  summary: "Join Niroshan Hemantha's online Maths classes and strengthen your skills in the subject. Click on this card to join the class and start your journey towards O/L success."
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: Korean Language
+  logo: /images/sections/skills/korean.jpg
+  summary: "Join K.A.R.G. Perera's online Korean language classes and broaden your linguistic horizons. Click on this card to join the class and start your journey towards mastering Korean."
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
-
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Biology
+  logo: /images/sections/skills/biology.png
+  summary: "Join Mahesh Bajjala's online Biology classes and deepen your understanding of the subject. Click on this card to join the class and start your journey towards success."

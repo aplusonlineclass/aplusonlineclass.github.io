@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Teachers
   id: experiences
   enable: true
   weight: 3
@@ -11,54 +11,104 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    name: A/L Sinhala - Anil Udesh Geethadewa
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Sinhala Specialist
+    start: University of Jayawardanapura
+  - designation: Advanced Level Paper Marker
+  - designation: Song Writer
+  - designation: Veteren Preache
+
+- company:
+    name: Chemistry - Madushanka Ambagahakumbura
+  positions:
+  - designation: B.Sc. (Special)
+  - designation: M.Sc. (Analytical Chemistry)
+
+- company:
+    name: Maths - Niroshan Hemantha
+  positions:
+  - designation: Maths Speacial Trianed
+  - designation: Science Speacial Trianed
+  
+- company:
+    name: Biology - Mahesh Bajjala
+  positions:
+  - designation: B.Sc. (Biological Science) Sp. (Botany) Hons.
+  - designation: M.Sc. (R) University of Peradeniya
+
+- company:
+    name: Korean Language - K.A.R.G. Perera
+  positions:
+  - designation: Level 6 Regular Korean Language Diploma
+    start: YONSEI University
+    end: June 2008
+  - designation: Part 1 of the Certificate Course in Korean Higher Education, Employment and Business Purposes
+    start: University Of Kelaniya
+    end: May 2018
+
+- company:
+    name: Physics - Achala Prabashana | Akila Kanchana
+  positions:
+  - designation: Achala Prabashana - B.Sc. (U.G)
+  - designation: Akila Kanchana - B.Sc. (U.G)
+
+
+
+
+
+
+
+
+# - company:
+    # name: K.A.R.G. Perera
+    # url: "https://www.example.com"
+    # location: YONSEI University
+    # # company overview
+    # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  # positions:
+  # - designation: Part 1 of the Certificate Course in Korean Higher Education, Employment and Business Purposes
+    # start: June 2018
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    # end: May 2018
     # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    # responsibilities:
+    # - Design and develop XYZ tool for ABC task
+    # - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    # - Lead backend team.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  # - designation: Level 6 Regular Korean Language Diploma
+    # start: Nov 2017
+    # end: June 2008
+    # responsibilities:
+    # - Implement and test xyz feature for abc tool.
+    # - Support client for abc tool.
+    # - Learn k,d,w technology for xyz.
 
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+# - company:
+#     name: PreExample Co.
+#     url: "https://www.example.com"
+#     location: Nowhere
+#     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+#   positions:
+#   - designation: Software Engineer
+#     start: March 2016
+#     end: May 2017
+#     responsibilities:
+#     - Write lots of example codes.
+#     - Read lots of examples.
+#     - See lots of example videos.
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+# - company:
+#     name: Intern Counting Company (ICC).
+#     url: "https://www.example.com"
+#     location: Intern Land
+#     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+#   positions:
+#   - designation: Intern
+#     start: Jun 2015
+#     end: Jan 2016
+#     responsibilities:
+#     - Count lost of interns.
+#     - Count more interns.
+#     - Count me as an intern.

@@ -33,7 +33,7 @@ This sample post tests the followings:
 
 ### YouTube Video Sample
 
-{{< youtube ZJthWmvUzzc >}}
+{{< youtube 1IWvAZIahi8 >}}
 
 {{< vs >}}
 
