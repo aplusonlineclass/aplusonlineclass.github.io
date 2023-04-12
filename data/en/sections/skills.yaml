@@ -20,13 +20,13 @@ skills:
   logo: /images/sections/skills/chemestry.png
   summary: "Join Madushanka Ambagahakumbura's online Chemistry classes and elevate your understanding of the subject. Click on this card to join the class and start your journey towards academic excellence."
 
-- name: Physics
-  logo: /images/sections/skills/physics.png
-  summary: "Join Achala Prabashana and Akila Kanchana's online Physics classes and unlock your full potential in the subject. Click on this card to join the class and start your journey towards success."
-
 - name: O/L Maths
   logo: /images/sections/skills/maths.jpg
   summary: "Join Niroshan Hemantha's online Maths classes and strengthen your skills in the subject. Click on this card to join the class and start your journey towards O/L success."
+
+
+
+
 
 - name: Korean Language
   logo: /images/sections/skills/korean.jpg
@@ -35,3 +35,7 @@ skills:
 - name: Biology
   logo: /images/sections/skills/biology.png
   summary: "Join Mahesh Bajjala's online Biology classes and deepen your understanding of the subject. Click on this card to join the class and start your journey towards success."
+
+- name: Physics
+  logo: /images/sections/skills/physics.png
+  summary: "Join Achala Prabashana and Akila Kanchana's online Physics classes and unlock your full potential in the subject. Click on this card to join the class and start your journey towards success."
