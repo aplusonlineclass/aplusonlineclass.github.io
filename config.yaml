@@ -98,7 +98,7 @@ params:
       # Share post on different social media
       shareButtons:
         facebook: true
-        twitter: true
+        twitter: false
         linkedin: true
         reddit: true
         whatsapp: true
