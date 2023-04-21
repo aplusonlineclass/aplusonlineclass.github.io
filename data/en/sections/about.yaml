@@ -64,34 +64,34 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
+  name: Anil Udesh Geethadewa
   # url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
   badge: "https://i.imgur.com/clqWv1J.jpg"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
+  name: Madushanka Ambagahakumbura
   # url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
   badge: "https://i.imgur.com/N897ESZ.jpg"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
+  name: Niroshan Hemantha
   # url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
   badge: "https://i.imgur.com/oQ3UbBf.jpg"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
+  name: Mahesh Bajjala
   # url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
   badge: "https://i.imgur.com/ZDQQ2o0.jpg"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
+  name: K.A.R.G. Perera
   # url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
   badge: "https://i.imgur.com/lcjRr26.jpg"
 
 
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
+  name: Achala Prabashana | Akila Kanchana
   # url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
   badge: "https://i.imgur.com/85QKg89.jpg"
 

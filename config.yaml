@@ -98,7 +98,7 @@ params:
       # Share post on different social media
       shareButtons:
         facebook: true
-        twitter: false
+        twitter: true
         linkedin: true
         reddit: true
         whatsapp: true
@@ -287,3 +287,5 @@ params:
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
       enable: false
+
+ignoreErrors: ["error-remote-getjson"]
