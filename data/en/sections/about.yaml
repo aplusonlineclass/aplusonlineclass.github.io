@@ -90,10 +90,10 @@ resourceLinks:
 
 
 
-- type: certification
-  name: Achala Prabashana | Akila Kanchana
-  # url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://i.imgur.com/85QKg89.jpg"
+# - type: certification
+#   name: Achala Prabashana | Akila Kanchana
+#   # url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#   badge: "https://i.imgur.com/85QKg89.jpg"
 
 # - type: soft-skill-indicator
 #   name: Leadership
